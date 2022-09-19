@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ananyag0
+- 👋 Hi, I’m Ananya Garg
 - 👀 I’m interested in ML/AI, web development, and the intersection of CS with social impact and medicine. 
 - 🌱 I’m currently learning CS at GA Tech
 
