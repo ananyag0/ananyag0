@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Ananya Garg
-- 👀 I’m interested in ML/AI, web development, and the intersection of CS with social impact and medicine. 
-- 🌱 I’m currently learning CS at GA Tech
+- 👋 Hello, I’m Ananya Garg! 
+- 👀 I'm a Computer Science Student at the Georgia Institute of Technology. 
+- I’m interested in ML/AI, financial technology, web development, and the intersection of CS with social impact!
+- 🌱 Feel free to check out my personal projects and more on here
 
 <!---
 ananyag0/ananyag0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
