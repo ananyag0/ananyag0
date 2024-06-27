@@ -7,7 +7,7 @@
 
 💼 🖋️ Minoring in IT management 
 
-🎯 👩🏻‍💻 Excited to combine explore Product Management & combine my software dev expertise with my passion for leading teams 
+🎯 👩🏻‍💻 Excited to combine explore Product Management & combine my software dev expertise with my experience leading products. 
 
 
 🚀 📫 Lets chat ananyagarg@gatech.edu
