@@ -1,9 +1,14 @@
 👋 Hey there :) 
 
-🖥️ ⚙️  I'm a 3rd year Computer Science undergrad @ Georgia Tech 
-🤖 👥 Concentrating in AI + HCI 
+
+🖥️ ⚙️  I'm a 3rd year Computer Science undergrad @ Georgia Tech
+
+🤖 👥 Concentrating in AI + HCI
+
 💼 🖋️ Minoring in IT management 
+
 🎯 👩🏻‍💻 Excited to combine explore Product Management & combine my software dev expertise with my passion for leading teams 
+
 
 🚀 📫 Lets chat ananyagarg@gatech.edu
 
