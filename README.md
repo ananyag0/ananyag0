@@ -1,16 +1,5 @@
-👋 Hey there :) 
-
-
-🖥️ ⚙️  I'm a 3rd year Computer Science undergrad @ Georgia Tech
-
-🤖 👥 Concentrating in AI + HCI
-
-💼 🖋️ Minoring in IT management 
-
-🎯 👩🏻‍💻 Excited to combine explore Product Management & combine my software dev expertise with my experience leading products. 
-
-
-🚀 📫 Lets chat ananyagarg@gatech.edu
+👋 Hey there :)  I'm a 3rd year Computer Science undergrad @ Georgia Tech
+🚀 Lets chat ananyagarg@gatech.edu
 
 <!---
 ananyag0/ananyag0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
